@@ -11,3 +11,4 @@ line ```%matplotlib qt``` in your code.
 
 ### List of tutorials so far:
 * [tut01a](../master/tut01a.py): loading an XRD pattern and plotting it.
+* [tut01b](../master/tut01b.py): plotting individual peaks.
