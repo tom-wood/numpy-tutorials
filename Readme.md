@@ -10,4 +10,4 @@ window (useful if you want to zoom in), then you will need to put the
 line ```%matplotlib qt``` in your code.
 
 ### List of tutorials so far:
-* [tut01a](../blob/master/tut01a.py): loading an XRD pattern and plotting it.
+* [tut01a](../master/tut01a.py): loading an XRD pattern and plotting it.
