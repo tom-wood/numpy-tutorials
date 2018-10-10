@@ -13,5 +13,6 @@ line ```%matplotlib qt``` in your code.
 * [tut01a](../master/tut01a.py): loading an XRD pattern and plotting it.
 * [tut01b](../master/tut01b.py): plotting individual peaks.
 * [tut02a](../master/tut02a.py): finding area under a peak.
-* [tut02b](../master/tut02b.py): finding linear background-corrected area 
+* [tut02b](../master/tut02b.py): finding linear background-corrected area
 under a peak.
+* [tut03a](../master/tut03a.py): applying rolling average to data.
