@@ -16,3 +16,4 @@ line ```%matplotlib qt``` in your code.
 * [tut02b](../master/tut02b.py): finding linear background-corrected area
 under a peak.
 * [tut03a](../master/tut03a.py): applying rolling average to data.
+* [tut04a](../master/tut04a.py): automatically finding peaks.
