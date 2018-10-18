@@ -17,3 +17,4 @@ line ```%matplotlib qt``` in your code.
 under a peak.
 * [tut03a](../master/tut03a.py): applying rolling average to data.
 * [tut04a](../master/tut04a.py): automatically finding peaks.
+* [tut05a](../master/tut05a.py): fitting peaks.
